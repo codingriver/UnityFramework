@@ -27,3 +27,8 @@ UnityFramework/Temp/
 UnityFramework/.vs/
 UnityFramework/test.json
 *.sln
+UnityFramework/.vsconfig
+.gitignore
+UnityFramework/Logs/
+Logs/
+UnityFramework/Packages/packages-lock.json
