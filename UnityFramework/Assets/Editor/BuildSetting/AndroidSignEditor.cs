@@ -7,7 +7,7 @@ public class AndroidSignEditor
 {
     public static string keystoreName= System.IO.Path.Combine(Environment.CurrentDirectory, "user.keystore");
     public static string keystorePass = "111222";
-    public static string keyaliasName = "tych";
+    public static string keyaliasName = "test";
     public static string keyaliasPass = "111222";
     
 

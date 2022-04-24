@@ -1,0 +1,20 @@
+{
+    "name": "Efficiency.Profiler",
+    "rootNamespace": "",
+    "references": [
+        "GUID:625e041fd3583c84fb2778e61b49608c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        "log4netPlastic.dll",
+        "ICSharpCode.SharpZipLib.dll",
+        "unityplastic.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
